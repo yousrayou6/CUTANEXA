@@ -75,7 +75,7 @@ html, body, [class*="css"]{
 /* Hide streamlit */
 #MainMenu {visibility:hidden;}
 footer {visibility:hidden;}
-header {visibility:hidden;}
+
 
 /* Sidebar */
 section[data-testid="stSidebar"]{
@@ -258,7 +258,7 @@ It does not replace professional evaluation and should never delay consultation 
 <li>rapid worsening</li>
 </ul>
 
-</div>
+
 """
 
 # =========================================================
